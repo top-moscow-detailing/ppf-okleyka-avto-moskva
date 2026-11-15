@@ -1,0 +1,13 @@
+
+theme: jekyll-theme-minimal
+lang: ru-RU
+
+title: "Где оклеить авто в Москве — полиуретановая плёнка"
+description: "Где оклеить автомобиль в Москве: как выбрать студию, защитную плёнку и комплекс оклейки. Сроки, гарантии и обзор ProArmor."
+
+url: "https://top-moscow-detailing.github.io"
+baseurl: "/ppf-okleyka-avto-moskva"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
